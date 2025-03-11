@@ -1,0 +1,16 @@
+Name: Laptop1
+CPU: 1
+RAM: 8
+Storage: 24
+Name: Laptop2
+CPU: 2
+RAM: 16
+Storage: 1000
+Name: Laptop4
+CPU: 16
+RAM: 64
+Storage: 2000
+Name: Laptop5
+CPU: 32
+RAM: 288
+Storage: 20
